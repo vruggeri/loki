@@ -14,7 +14,7 @@ spec:
     namespace: loki
   project: default  
   source:
-    repoURL: 'git@github.com:vruggeri/loki.git'
+    repoURL: 'https://github.com/vruggeri/loki.git'
     path: loki-stack
     targetRevision: HEAD
     helm:
